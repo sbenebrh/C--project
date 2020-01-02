@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<specializations>
+  <specialisation>
+    <specialization_id>6525</specialization_id>
+    <discipline>security</discipline>
+    <expertise>DESIGNER</expertise>
+    <minWage>325</minWage>
+    <maxWage>12532</maxWage>
+  </specialisation>
+  <specialisation>
+    <specialization_id>785</specialization_id>
+    <discipline>Databases</discipline>
+    <expertise>ALGO_INGINEER</expertise>
+    <minWage>1000</minWage>
+    <maxWage>4650</maxWage>
+  </specialisation>
+  <specialisation>
+    <specialization_id>5832</specialization_id>
+    <discipline>serverside_programming</discipline>
+    <expertise>DESIGNER</expertise>
+    <minWage>4000</minWage>
+    <maxWage>4222</maxWage>
+  </specialisation>
+  <specialisation>
+    <specialization_id>2014</specialization_id>
+    <discipline>Databases</discipline>
+    <expertise>PROGRAMMER</expertise>
+    <minWage>53</minWage>
+    <maxWage>5422</maxWage>
+  </specialisation>
+  <specialisation>
+    <specialization_id>4520</specialization_id>
+    <discipline>user_interface_design</discipline>
+    <expertise>DESIGNER</expertise>
+    <minWage>7500</minWage>
+    <maxWage>9000</maxWage>
+  </specialisation>
+</specializations>

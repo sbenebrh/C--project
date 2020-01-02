@@ -1,0 +1,42 @@
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\BE-1.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\BL-2.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\DAL-3.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\DAL-4.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\BE-1.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\BL-2.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\DAL-3.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\bin\Debug\DAL-4.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

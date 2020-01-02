@@ -1,0 +1,840 @@
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\App.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_CONTARCT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_CONTARCT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_CONTARCT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2 FINIT\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\MENU.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\MENU.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\profilt_by_year_contracts.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\profilt_by_year_contracts.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\motdepasse.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART 2\PL_UI2\obj\Debug\motdepasse.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\App.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_CONTRACT.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_CONTRACT.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\samuel\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_CONTRACT.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\App.g.cs
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_CONTRACT.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\nathanmsika\Desktop\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_CONTRACT.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\App.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\grouping.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_CONTRACT.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\motdepasse.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\profilt_by_year_contracts.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Contract.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_employee.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_Employer.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Remove_specialization.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 PART\PL_UI2\obj\Debug\PL_UI2-5.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\PL_UI2-5.exe.config
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\PL_UI2-5.exe
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\PL_UI2-5.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\BE-1.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\BL-2.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\DAL-3.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\DAL-4.dll
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\BE-1.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\BL-2.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\DAL-3.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\bin\Debug\DAL-4.pdb
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_WPF.csprojResolveAssemblyReference.cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADD_SPECIALIZATION.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADDEmployer.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADD_CONTRACT.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADD_EMPLOYEE.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\all_lists.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\Contract_to_employer.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\grouping.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MainWindow.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_CONTRACT.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_EMPLOYEE.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_EMPLOYER.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_EXPERT.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\profilt_by_year_contracts.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\update_contract.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\update_Employee.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\update_employer.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\Update_specialization.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADD_SPECIALIZATION.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\App.g.cs
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_UI2-5_MarkupCompile.lref
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADDEmployer.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADD_CONTRACT.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\ADD_EMPLOYEE.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\all_lists.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\Contract_to_employer.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\grouping.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MainWindow.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_CONTRACT.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_EMPLOYEE.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_EMPLOYER.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\MENU_EXPERT.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\profilt_by_year_contracts.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\update_contract.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\update_Employee.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\update_employer.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\Update_specialization.baml
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_UI2-5.g.resources
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_UI2.Properties.Resources.resources
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_WPF.csproj.GenerateResource.Cache
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_UI2-5.exe
+C:\Users\samuel\Desktop\projet sam (2)\projet sam\dotNet5777_Project01 8742\PL_UI2\obj\Debug\PL_UI2-5.pdb

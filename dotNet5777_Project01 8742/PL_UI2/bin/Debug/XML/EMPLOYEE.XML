@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <employee>
+    <lastname>fwes</lastname>
+    <firstname>sam</firstname>
+    <birthdate>1990-01-01T00:00:00</birthdate>
+    <age>27</age>
+    <ID>253</ID>
+    <phone>5773</phone>
+    <degree>BSC</degree>
+    <CODE-BANK>2455</CODE-BANK>
+    <NAME-BANK>בנק לאומי לישראל בע"מ</NAME-BANK>
+    <CITY>נתניה</CITY>
+    <CODE-SNIF>4</CODE-SNIF>
+    <ADDRESS-ATM>שטמפפר 9 </ADDRESS-ATM>
+  </employee>
+  <employee>
+    <lastname>sdaf </lastname>
+    <firstname>vcsx</firstname>
+    <birthdate>1998-01-01T00:00:00</birthdate>
+    <age>19</age>
+    <ID>52</ID>
+    <phone>357</phone>
+    <degree>STUDENT</degree>
+    <CODE-BANK>852</CODE-BANK>
+    <NAME-BANK>בנק יהב לעובדי המדינה בע"מ</NAME-BANK>
+    <CITY>רחובות</CITY>
+    <CODE-SNIF>12</CODE-SNIF>
+    <ADDRESS-ATM>הלל וחנן אופנהיימר 2 אופנהימר 2</ADDRESS-ATM>
+  </employee>
+  <employee>
+    <lastname>ben</lastname>
+    <firstname>sam</firstname>
+    <birthdate>01-Jan-90 12:00:00 AM</birthdate>
+    <age>27</age>
+    <ID>4574</ID>
+    <phone>58632</phone>
+    <degree>MBSC</degree>
+    <CODE-BANK>252</CODE-BANK>
+    <NAME-BANK>בנק אוצר החייל בע"מ</NAME-BANK>
+    <CITY>תל אביב -יפו</CITY>
+    <CODE-SNIF>14</CODE-SNIF>
+    <ADDRESS-ATM>החשמונאים 84 </ADDRESS-ATM>
+  </employee>
+</employees>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employer>
+  <employer>
+    <ID>53</ID>
+    <lastname>ben</lastname>
+    <firstname>sam</firstname>
+    <phone>5385685</phone>
+    <adresse>53 rue x</adresse>
+    <city>jerusalem</city>
+    <discipline>communications</discipline>
+    <private>true</private>
+  </employer>
+  <employer>
+    <ID>52</ID>
+    <lastname>dfsc</lastname>
+    <firstname>sdv</firstname>
+    <phone>8452</phone>
+    <adresse>d f</adresse>
+    <city>natanya</city>
+    <discipline>serverside_programming</discipline>
+    <private>true</private>
+  </employer>
+  <employer>
+    <ID>57221</ID>
+    <lastname>asf</lastname>
+    <firstname>dacs</firstname>
+    <phone>72850</phone>
+    <adresse>fcsd</adresse>
+    <city>eilat</city>
+    <discipline>mobile_programming</discipline>
+    <private>true</private>
+  </employer>
+  <employer>
+    <ID>899988</ID>
+    <lastname>g</lastname>
+    <firstname>e</firstname>
+    <phone>98878777</phone>
+    <adresse>rue leclerc</adresse>
+    <city>natanya</city>
+    <discipline>security</discipline>
+    <private>true</private>
+  </employer>
+</employer>

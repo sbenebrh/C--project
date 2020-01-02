@@ -1,0 +1,93 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL_UI2"
+        xmlns:BE="clr-namespace:BE;assembly=BE-1" x:Class="PL_UI2.update_Employee"
+        mc:Ignorable="d"
+        Title="update_Employee" WindowState="Maximized" Height="431.4" Width="1178" >
+
+
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="122*"/>
+            <ColumnDefinition Width="29*"/>
+            <ColumnDefinition Width="80*"/>
+            <ColumnDefinition Width="900*"/>
+            <ColumnDefinition Width="34*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="177*"/>
+            <RowDefinition Height="289*"/>
+            <RowDefinition Height="56*"/>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="27*"/>
+
+        </Grid.RowDefinitions>
+        <DataGrid x:Name ="DataGrid_s" ColumnWidth="*" IsReadOnly="True" Grid.RowSpan="4" Grid.Column="4" Grid.ColumnSpan="2" Margin="0,14,34.2,36.4"  />
+
+        <Button x:Name="addButton" Foreground="Brown" Content="UPDATE"  Grid.Row="4"  FontSize="18" Click="addButton_Click" Grid.Column="1" Margin="26,0,10,0"/>
+        <Button   Margin="800,0,0,0" Grid.Row="4" Click="Button_Click" Grid.Column="4">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="images/return.png" Width="67" Height="22"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Height="32" SelectionChanged="comboBox_SelectionChanged" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Margin="97,0,0,0"/>
+        <Label x:Name="label" Content="Enter id:" FontSize="16" Background="White" HorizontalAlignment="Left" VerticalAlignment="Top" Width="77" Height="32" Grid.Row="1" RenderTransformOrigin="0.417,-0.07" Margin="5,0,0,0" Grid.Column="1"/>
+        <Button x:Name="REMOVE" Content="REMOVE" Foreground="Red" FontSize="18"  HorizontalAlignment="Left" Margin="0,0,0,1" Width="80" Grid.Row="4" Click="REMOVE_Click" Grid.Column="3" />
+        <Grid x:Name="grid1"  HorizontalAlignment="Left" Margin="5,49,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.RowSpan="2" Height="320" Width="210" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="birth Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+            <DatePicker x:Name="birthDateDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="0" SelectedDate="{Binding birthDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            <Label Content="degree:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+            <ComboBox x:Name="degreeComboBox" Grid.Column="1"  HorizontalAlignment="Left" Height="Auto"  SelectedItem="{Binding degree}" Margin="3" Grid.Row="1" VerticalAlignment="Center" Width="120">
+            </ComboBox>
+            <Label Content="first Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <TextBox x:Name="firstNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="2" Text="{Binding firstName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="last Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+            <TextBox x:Name="lastNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="3" Text="{Binding lastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="phone:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="4" VerticalAlignment="Center"/>
+            <TextBox x:Name="phoneTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="4" Text="{Binding phone, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="adress Bank:" HorizontalAlignment="Left" Margin="3,6,0,0" Grid.Row="7" VerticalAlignment="Center"/>
+            <ComboBox x:Name="adressBankComboBox" Grid.Column="1" HorizontalAlignment="Left" SelectedItem="{Binding adressBank}" Height="Auto"  Margin="3,6,0,4" Grid.Row="7" VerticalAlignment="Center" Width="120" SelectionChanged="adressBankComboBox_SelectionChanged">
+            </ComboBox>
+
+            <Label Content="bank Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="6" VerticalAlignment="Center"/>
+            <ComboBox x:Name="bankNameComboBox" Grid.Column="1" SelectedItem="{Binding bankName}" HorizontalAlignment="Left" Height="Auto" Margin="3,3,0,7" Grid.Row="6" VerticalAlignment="Center" Width="120" SelectionChanged="bankNameComboBox_SelectionChanged">
+            </ComboBox>
+            <Label Content="bank Num:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,2" Grid.Row="9" VerticalAlignment="Center" RenderTransformOrigin="0.618,3.385"/>
+            <TextBox x:Name="bankNumTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,6,0,2" Grid.Row="9" Text="{Binding bankdetails.bankNum, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="branch Bank:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="8" VerticalAlignment="Center"/>
+            <ComboBox x:Name="branchBankComboBox" Grid.Column="1" SelectedItem="{Binding branchBank}"  HorizontalAlignment="Left" Height="Auto"  Margin="3,3,0,7" Grid.Row="8" VerticalAlignment="Center" Width="120" SelectionChanged="branchBankComboBox_SelectionChanged">
+            </ComboBox>
+            <Label Content="city:" HorizontalAlignment="Left" Margin="3,5,0,1" Grid.Row="5" VerticalAlignment="Center"/>
+            <ComboBox x:Name="cityComboBox" Grid.Column="1"  SelectedItem="{Binding city}" HorizontalAlignment="Left" Height="Auto"  Margin="3,5,0,5" Grid.Row="5" VerticalAlignment="Center" Width="120" SelectionChanged="cityComboBox_SelectionChanged"/>
+        </Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="SkyBlue" Offset="0.918"/>
+                <GradientStop Color="WhiteSmoke"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

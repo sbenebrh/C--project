@@ -1,0 +1,120 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL_UI2"
+        xmlns:BE="clr-namespace:BE;assembly=BE-1" x:Class="PL_UI2.ADDEmployer"
+        mc:Ignorable="d"
+        Title="ADDEmployer" WindowState="Maximized" Height="654" Width="1198.5"  >
+
+    <Grid  ><!--grid-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="94*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="477*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="66*"/>
+            <RowDefinition Height="79*"/>
+        </Grid.RowDefinitions>
+        <!--datagrid-->
+        <DataGrid Name ="DataGrid_s" ColumnWidth="*" IsReadOnly="True" VerticalAlignment="Stretch" HorizontalAlignment="Left" Margin="4,10,0,0" Width="926" Grid.Column="1"/>
+        <!--button add and trigger to fill every fields-->
+        <Button x:Name="addButton"  Content="Add"  FontSize="30"  Click="addButton_Click" Margin="52,0,0,3" Grid.Row="2" HorizontalAlignment="Left" Width="108">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=companyIDTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=adresseTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=firstNameTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=lastNameTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=numberEmployeeTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=phoneTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+            
+        <Grid x:Name="grid1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="349" Width="241" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <!--combobox and co-->
+            <Label Content="adresse:" Background="White" Grid.Column="0" HorizontalAlignment="Left" Margin="3,0,0,3" Grid.Row="2" VerticalAlignment="Center" Width="102"/>
+            <TextBox x:Name="adresseTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,0,0,5" Grid.Row="2" Text="{Binding adresse, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="city:"  Background="White" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="1" VerticalAlignment="Center" Width="102"/>
+            <Label Content="company ID:" Background="White" Grid.Column="0" HorizontalAlignment="Left" Margin="3,2,0,4" VerticalAlignment="Center" Width="102"/>
+            <TextBox x:Name="companyIDTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="3,2,0,0" Text="{Binding companyID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+
+
+            <Label Content="creation Date:" Grid.Column="0" Background="White" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="4" VerticalAlignment="Center" Width="102"/>
+            <DatePicker x:Name="creationDateDatePicker"   Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="4" SelectedDate="{Binding creationDate,  Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            <Label Content="discipline:" Grid.Column="0" Background="White" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="5" VerticalAlignment="Center" Width="102"/>
+            <ComboBox x:Name="disciplineComboBox" Grid.Column="1"
+                      SelectedItem="{Binding discipline}" 
+                      HorizontalAlignment="Left" 
+                      Height="Auto"  
+                      Margin="3,7,0,3" Grid.Row="5" 
+                      VerticalAlignment="Center" 
+                      Width="120">
+            </ComboBox>
+
+            <Label Content="first Name:" Background="White" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="6" VerticalAlignment="Center" Width="102"/>
+            <TextBox x:Name="firstNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="6" Text="{Binding firstName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="is Private:" Background="White" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,2" Grid.Row="8" VerticalAlignment="Center" Width="102"/>
+            <CheckBox x:Name="isPrivateCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="{Binding isPrivate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Margin="10,7,0,10" Grid.Row="8" VerticalAlignment="Center"/>
+            <Label Content="last Name:" Background="White" Grid.Column="0" HorizontalAlignment="Left" Margin="3,2,0,4" Grid.Row="7" VerticalAlignment="Center" Width="102" Height="26"/>
+            <TextBox x:Name="lastNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="3,6,0,4" Grid.Row="7" Text="{Binding lastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="number Employee:" Background="White" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="9" VerticalAlignment="Center" Width="102"/>
+            <TextBox x:Name="numberEmployeeTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="9" Text="{Binding numberEmployee, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="phone:" Grid.Column="0" Background="White" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="10" VerticalAlignment="Center" Width="102"/>
+            <TextBox x:Name="phoneTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="10" Text="{Binding phone, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <ComboBox x:Name="comboBox_city" Grid.Column="1" HorizontalAlignment="Left" Margin="4,5,0,0" Grid.Row="1" VerticalAlignment="Top" Width="119"/>
+        </Grid>
+        <Button  Margin="670,0,180,0" Click="Button_Click" Grid.Row="2" Grid.Column="1">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="images/return.png" Width="72" Height="49"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <!--background-->
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="SkyBlue" Offset="0.918"/>
+                <GradientStop Color="WhiteSmoke"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+    </Grid>
+
+
+</Window>
